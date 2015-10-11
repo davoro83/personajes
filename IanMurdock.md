@@ -16,3 +16,6 @@ Actualmente, la proyecto Debian cuenta con aproximadamente 15 distribuciones, ca
 Quizá lo más importante es que: Debian nació como una apuesta por separar en sus versiones el software libre del software no libre. El modelo de desarrollo del proyecto es ajeno a motivos empresariales o comerciales, siendo llevado adelante por los propios usuarios, aunque cuenta con el apoyo de varias empresas en forma de infraestructuras. Debian no vende directamente su software, lo pone a disposición de cualquiera en Internet, aunque sí permite a personas o empresas distribuirlo comercialmente mientras se respete su licencia y sigue siendo así.
 
 
+Luis David Orozco Moreno
+
+
