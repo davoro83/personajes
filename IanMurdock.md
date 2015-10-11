@@ -18,4 +18,6 @@ Quizá lo más importante es que: Debian nació como una apuesta por separar en 
 
 Luis David Orozco Moreno
 
+P172671
+
 
